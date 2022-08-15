@@ -11,3 +11,7 @@ iOS widgets using scriptable app
 需要在 `.js` 文件中填写 UID 和 cookie。
 
 默认为官服（天空岛），如果为b服请改为 `gf_qd01`。
+
+---
+
+credits: @spencerwooo
